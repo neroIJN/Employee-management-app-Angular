@@ -27,3 +27,4 @@ E:\MY\PROJECTS\WEB APP\Employee-management-app-Angular\employee-management\serve
 E:\MY\PROJECTS\WEB APP\Employee-management-app-Angular\employee-management\server\EmployeeManagementApi\obj\Debug\net9.0\EmployeeManagementApi.pdb
 E:\MY\PROJECTS\WEB APP\Employee-management-app-Angular\employee-management\server\EmployeeManagementApi\obj\Debug\net9.0\EmployeeManagementApi.genruntimeconfig.cache
 E:\MY\PROJECTS\WEB APP\Employee-management-app-Angular\employee-management\server\EmployeeManagementApi\obj\Debug\net9.0\ref\EmployeeManagementApi.dll
+E:\MY\PROJECTS\WEB APP\Employee-management-app-Angular\employee-management\server\EmployeeManagementApi\bin\Debug\net9.0\LiteDB.dll

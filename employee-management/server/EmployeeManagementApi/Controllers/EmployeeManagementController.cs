@@ -22,7 +22,7 @@ namespace EmployeeManagementApi.Controllers
             _liteDbService.SaveLogin(login);
 
             // Dummy authentication
-            if (login.Username == "admin" && login.Password == "password")
+            if (login.Username == "admin" && login.Password == "1234")
             {
                 return Ok(new
                 {
