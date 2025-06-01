@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3EY3FFmBSoE=",
+  "success": true,
+  "projectFilePath": "E:\\MY\\PROJECTS\\WEB APP\\Employee-management-app-Angular\\employee-management\\server\\EmployeeManagementApi\\EmployeeManagementApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\niros\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512",
+    "C:\\Users\\niros\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\niros\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\niros\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
